@@ -1,0 +1,27 @@
+{
+    "name": "Cool smell",
+    "background": "0xa11b1b",
+    "resolution": [1000, 1000],
+    "grid": [20, 20],
+    "target": "out.png",
+    "lifeforms": [
+        {
+            "size": 2,
+            "density": 0.1,
+            "shape": "circle",
+            "color": "0x1ba144"
+        },
+        {
+            "size": 1,
+            "density": 0.2,
+            "shape": "circle",
+            "color": "0x0810b5"
+        },
+        {
+            "size": 3,
+            "density": 0.02,
+            "shape": "circle",
+            "color": "0xfcd22c"
+        }
+    ]
+}
